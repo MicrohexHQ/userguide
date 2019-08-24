@@ -2,6 +2,7 @@
 [![CircleCI](https://circleci.com/gh/w3f/polkadot-wiki.svg?style=svg)](https://circleci.com/gh/w3f/polkadot-wiki) -->
 
 # Kusama User Manual
+![](https://github.com/MicrohexHQ/userguide/blob/master/U/AI/kusama.jpg)
 
 This repository contains the source files for the [Kusama User Guide](https://guide.kusama.network).
 
